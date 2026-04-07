@@ -1,0 +1,14 @@
+# Flutter Jobs Scraper
+
+# Private - do not commit
+logs/
+*.log
+.env
+.env.*
+
+# Keep scripts and config
+scripts/
+*.py
+*.sh
+*.md
+!.gitignore
