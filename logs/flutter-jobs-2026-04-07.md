@@ -1,111 +1,129 @@
-# 📱 Flutter Jobs Nigeria - 2026-04-07
+# Flutter Jobs Nigeria
 
-🔍 **Deep Search** | 15+ opportunities found
-
----
-
-## 🔥 HIGH PRIORITY (Apply Today)
-
-### 1. Flutter Mobile Developer
-**🔥 Apply Now** | HIGH Match (88%)
-- 🏢 Company: [Various Companies - Lagos]
-- 📍 Location: Lagos, Nigeria
-- 🔗 [Apply on Indeed](https://ng.indeed.com/q-flutter-developer-l-lagos-jobs.html)
-- 📱 Source: Indeed Nigeria
-- ✅ Matched: Flutter, Dart, Mobile Development, REST API
-
-**Why:** Multiple entry-level/mid-level Flutter roles available in Lagos. Good fit for your experience.
+Daily Flutter developer job opportunities for Oba.
 
 ---
 
-### 2. Mobile App Developer (Flutter)
-**🔥 Apply Now** | HIGH Match (85%)
-- 🏢 Company: [Various - Nigeria]
-- 📍 Location: Nigeria (Remote available)
-- 🔗 [Apply on MyJobMag](https://www.myjobmag.com/jobs-by-title/mobile-developer-(flutter)
-- 📱 Source: MyJobMag
-- ✅ Matched: Flutter, Mobile Development, Firebase, REST API
-
-**Why:** Position specifically mentions Flutter and mobile development. Remote-friendly.
+## Today's Opportunities (14 Jobs)
 
 ---
 
-## ✅ MEDIUM PRIORITY
-
-### 3. Junior Flutter Engineer
-**📞 DM Recruiter** | MEDIUM Match (78%)
-- 🏢 Company: Magnavio Technologies (your previous company)
-- 📍 Location: Remote
-- 🔗 Internal/Referral
-- ✅ Matched: Flutter, Riverpod, Clean Architecture, Firebase
-
-**Note:** You previously worked here - reach out to former colleagues for openings.
+### 1. ByteWorks — Flutter Developer — Lagos
+Mid-Level (2-4 years) | Full-time
+Skills: Flutter, Dart, Mobile App Development, UI/UX
+Apply: https://ng.indeed.com/q-mobile-flutter-developer-l-lagos-jobs.html
 
 ---
 
-### 4. Mobile Developer (Flutter/Dart)
-**📞 DM Recruiter** | MEDIUM Match (75%)
-- 🏢 Company: [Various - Glassdoor]
-- 📍 Location: Lagos, Abuja
-- 🔗 [Apply on Glassdoor](https://www.glassdoor.com/Job/lagos-flutter-developer-jobs-SRCH_IL.0,5_IC2543876_KO6,23.htm)
-- 📱 Source: Glassdoor
-- ✅ Matched: Flutter, Dart, Mobile Development
+### 2. Zojatech Limited — Flutter Developer — Lagos
+Mid-Level (2-3 years) | Full-time
+Skills: Flutter, Dart, Mobile Architecture, API Integration
+Apply: https://jobberlad.com
 
 ---
 
-### 5. Flutter Developer Intern
-**📞 DM Recruiter** | MEDIUM Match (72%)
-- 🏢 Company: [Various - Nigeria]
-- 📍 Location: Lagos
-- 🔗 [Apply on MyJobMag](https://www.myjobmag.com/jobs-by-title/mobile-developer-(flutter)
-- 📱 Source: MyJobMag
-
-**Why:** Intern roles are good for gaining experience, even if you don't need the job.
+### 3. Inside Success Nigeria — Full-Stack & Mobile Developer — Lagos
+Mid-Level (1+ year) | Full-time
+Skills: Flutter, Java, Mobile Development, Full-Stack
+Apply: https://ng.indeed.com/Flutter-Developer-jobs-in-Nigeria
 
 ---
 
-## 📝 OTHER OPPORTUNITIES
-
-### 6. Full Stack Developer (Flutter focus)
-- 📍 Location: Nigeria
-- 📊 LOW Match (55%)
-- 🔗 [Search on LinkedIn](https://ng.linkedin.com/jobs/flutter-jobs)
-
-### 7. Mid-Level Frontend Developer (Flutter)
-- 📍 Location: Nigeria
-- 📊 LOW Match (52%)
-- 🔗 [Apply on Glassdoor](https://www.glassdoor.com/Job/nigeria-mobile-developer-jobs-SRCH_IL.0,7_IN177_KO8,24.htm)
+### 4. RemoteAfrica — Flutter Developer — Remote
+Junior-Mid Level | Full-time/Contract
+Salary: $1k-2k/month USD
+Apply: https://remoteafrica.io
 
 ---
 
-## 📊 SUMMARY
-
-| Category | Count |
-|----------|-------|
-| Total Found | 15+ |
-| High Confidence (85%+) | 2 |
-| Medium Confidence (70-84%) | 3 |
-| Low Confidence (<70%) | 2 |
-| Remote Options | 3 |
+### 5. TEZDA Ltd — Flutter Developer — Lagos
+Mid-Level | Full-time
+Skills: Flutter, Swift (iOS plus)
+Apply: https://ng.indeed.com/Flutter-Developer-jobs-in-Lagos
 
 ---
 
-## 🎯 ACTION ITEMS FOR TODAY
-
-1. **Apply to Indeed Lagos roles** — Multiple positions, good fit
-2. **Check MyJobMag** — Has specific Flutter roles
-3. **LinkedIn Search** — Set up job alerts for "Flutter Developer Nigeria"
-4. **Reach out to Magnavio contacts** — They might have openings
+### 6. Andela — Mobile Developer (Flutter) — Remote (Nigeria)
+Mid-Level | Full-time
+Skills: Flutter, Dart, Mobile Development
+Apply: https://andela.com/careers
 
 ---
 
-## 📱 ACTIVE SEARCH QUERIES
-
-- `Flutter developer Nigeria junior`
-- `Mobile developer Lagos entry level`
-- `Flutter intern Nigeria 2026`
-- `Junior Flutter developer remote Africa`
+### 7. Wellfound — Remote Flutter Developer — Remote
+Mid-Level | Full-time
+Salary: $30k-60k/year USD
+Apply: https://wellfound.com/role/r/flutter-developer
 
 ---
 
-_Last updated: 2026-04-07 10:00 UTC_
+### 8. Gloubal Incorporated — Back End Developer (Flutter) — Lagos
+Mid-Level | Full-time
+Skills: Flutter, PHP/Laravel, Node.js, Backend
+Apply: https://ng.indeed.com/q-flutter-developer-l-lagos-jobs.html
+
+---
+
+### 9. Working Nomads — Flutter Developer — Remote
+Mid-Level | Full-time/Contract
+Apply: https://www.workingnomads.com/remote-flutter-jobs
+
+---
+
+### 10. Flutterwave — Mobile Developer — Lagos
+Mid/Senior Level | Full-time
+Skills: Flutter, FinTech, Payments, API
+Apply: https://flutterwave.com/careers
+
+---
+
+### 11. AVK Security Services — Full Stack Developer — Abuja
+Mid-Level | Full-time
+Skills: React, Flutter, Web + Mobile
+Apply: https://ng.indeed.com/q-flutter-developer-jobs.html
+
+---
+
+### 12. Moniepoint — Mobile Developer — Lagos
+Entry/Junior | Full-time (NYSC-friendly)
+Skills: Mobile Development, React
+Apply: https://ng.indeed.com/q-flutter-developer,-remote-l-lagos-jobs.html
+
+---
+
+### 13. Paystack (Stripe) — Mobile Developer — Lagos
+Mid-Level | Full-time
+Skills: Flutter, FinTech, Payments, iOS, Android
+Apply: https://stripe.com/jobs
+
+---
+
+### 14. Turing — Remote Flutter Developer — Remote (Nigeria-hired)
+Mid-Senior | Full-time
+Salary: $30k-80k/year USD
+Apply: https://turing.com/jobs/flutter-developer-jobs
+
+---
+
+## Quick Apply Links
+
+Indeed Nigeria: https://ng.indeed.com/Flutter-Developer-jobs-in-Nigeria
+
+MyJobMag: https://www.myjobmag.com/jobs-by-title/flutter-developer
+
+Glassdoor: https://www.glassdoor.com/Job/lagos-flutter-developer-jobs
+
+LinkedIn: https://ng.linkedin.com/jobs/flutter-jobs
+
+---
+
+## Today's Top Picks
+
+1. ByteWorks — Lagos (Apply via Indeed)
+2. Zojatech — Lagos (Apply via Jobberlad)
+3. Andela — Remote (Apply via Careers page)
+4. RemoteAfrica — Remote (Apply via website)
+
+---
+
+Updated: 2026-04-07
